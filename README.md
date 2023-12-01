@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on c++
+- 🔭 I’m currently working on c++ and solidity
 - 🌱 I’m currently Doing solidity
-- 👯 I’m looking to collaborate on solidity
+- 👯 I’m looking to collaborate on solidity and c++
 - 🤔 I’m looking for help with API
 - 💬 Ask me about any wear php API
 - 📫 How to reach me: kolubunmibrowns399@gmail.com
